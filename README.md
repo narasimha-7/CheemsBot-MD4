@@ -35,7 +35,7 @@
 <p align="center">
 <a href="https://wa.me/917025331877"><img src="https://img.shields.io/badge/ᴄᴏɴᴛᴀᴄᴛ ᴅɪᴀʙʟᴏ xᴅ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/J3O4KWse0xUIc5TiqUUYdS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCMUQnru5VWfjadTO_NY-FbA"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://youtube.com/channel/UCMUQnru5VWfjadTO_NY-FbA"><img src="https://img.shields.io/badge/𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒 𝐷𝑖𝑎𝑏𝑙𝑜 𝑋𝐷-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 ## ```Donate Me```
