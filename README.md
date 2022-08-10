@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-ᴅɪᴀʙʟᴏ xᴅ ʙᴏᴛ Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+ᴅɪᴀʙʟᴏ xᴅ ʙᴏᴛ Multi Device is a automated whatsapp bot created by <a href="https://github.com/narasimha-7/CheemsBot-MD4" target="_blank">«ɴᷜᴀͣʀᷞ͢ᴀᷞsᷧɪᷢᴍᷧ͢ʜᴀ ᴍᷜᴀᷛ͢sᷫs»</a> using <a href="https://github.com/narasimha-7/CheemsBot-MD4" target="_blank">«ɴᷜᴀͣʀᷞ͢ᴀᷞsᷧɪᷢᴍᷧ͢ʜᴀ ᴍᷜᴀᷛ͢sᷫs»</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
