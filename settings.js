@@ -1,24 +1,5 @@
 //════════════════════════════//
-//If you want to recode, reupload
-//or copy the codes/script,
-//pls give credit
-//no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Lord Buddha, Family and Myself
-//════════════════════════════//
-//recode kar ke youtube pe upload kar rhe hai ya
-//codes copy kar ke apne script me dal rhe
-//hai to, description me xeon ka yt channel
-// ka link paste kr dena as a cradit or github 
-//repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
-//════════════════════════════//
-//If you recode and uploading on your channel
-//or copy pasting the codes in ur script, 
-//i give permission to do as long as you
-//put Xeons youtube channel link in the video
-//description and tag me on githuh repo, 
-//thank you🦄
+//© 2022 Diablo XD Bot Inc. ᴅɪᴀʙʟᴏ xᴅ ʙᴏᴛ
 //════════════════════════════//
 
 const fs = require('fs')
@@ -63,14 +44,14 @@ global.location = "India, Kerala, Kannur" //ur location
 //bot bomdy 
 global.owner = ['917025331877']
 global.ownertag = '917025331877' //ur tag number
-global.botname = '✧❥ ⃝⃕✯«⸙᭄𝐅𝐬⃑𝟒𝚾 𝐒𝛆⃐𝐫✯»✰⃝⃔⋆ ➤' //ur bot name
+global.botname = 'ᴅɪᴀʙʟᴏ xᴅ ʙᴏᴛ' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "🚩" //ur menu react emoji
 global.themeemoji = "🌝" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "✧❥ ⃝⃕✯«⸙᭄𝐅𝐬⃑𝟒𝚾 𝐒𝛆⃐𝐫✯»✰⃝⃔⋆ ➤" //ur sticker watermark author
+global.packname = "«ɴᷜᴀͣʀᷞ͢ᴀᷞsᷧɪᷢᴍᷧ͢ʜᴀ ᴍᷜᴀᷛ͢sᷫs» " //ur sticker watermark packname
+global.author = "«ɴᷜᴀͣʀᷞ͢ᴀᷞsᷧɪᷢᴍᷧ͢ʜᴀ ᴍᷜᴀᷛ͢sᷫs»" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
